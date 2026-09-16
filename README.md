@@ -29,7 +29,7 @@ To evaluate restaurant performance, analyze customer preferences across differen
 
 ---## 💻 SQL Analysis & Queries
 To view the complete set of SQL queries, business questions solved, and their output result grid screenshots, check out the dedicated file below:
-👉 **[View Full SQL Queries & Results Documentation](./sql_queries.md)**
+👉 **[View Full SQL Queries & Results Documentation](sql_analysis.md)**
 ## 📊 Power BI Dashboard & Visuals
 To view the complete visual breakdown, dashboard design, and interactive KPI insights, check out the dedicated dashboard file below:
 👉 **[View Power BI Dashboard Documentation](powerbi_dashboard.md)**
