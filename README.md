@@ -32,4 +32,4 @@ To view the complete set of SQL queries, business questions solved, and their ou
 👉 **[View Full SQL Queries & Results Documentation](sql_analysis.md)**
 ## 📊 Power BI Dashboard & Visuals
 To view the complete visual breakdown, dashboard design, and interactive KPI insights, check out the dedicated dashboard file below:
-👉 **[View Power BI Dashboard Documentation]powerbi_dashboard.md)**
+👉 **[View Power BI Dashboard Documentation](powerbi_dashboard.md)**
