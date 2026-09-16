@@ -24,3 +24,31 @@ ORDER BY Total_Restaurants DESC
 LIMIT 5;
 ```
 <img width="407" height="167" alt="image" src="https://github.com/user-attachments/assets/0818a9e7-abac-496f-9ca1-eec645c4f2dc" />
+
+
+### 3. Top Rated Restaurants
+
+```sql
+SELECT 
+    Restaurant, 
+    City, 
+    AvgRating, 
+    `Total ratings` 
+FROM swiggy.swiggy 
+ORDER BY AvgRating DESC, `Total ratings` DESC 
+LIMIT 5;
+```
+<img width="552" height="167" alt="image" src="https://github.com/user-attachments/assets/54b6835c-c2de-4084-9be0-83047c5a2db4" />
+
+### 4. City-wise Restaurant Distribution
+
+```sql
+SELECT 
+    City, 
+    COUNT(*) AS Total_Restaurants 
+FROM swiggy.swiggy 
+GROUP BY City 
+ORDER BY Total_Restaurants DESC 
+LIMIT 5;
+```
+<img width="271" height="141" alt="image" src="https://github.com/user-attachments/assets/87a81558-8a02-44fc-a5de-2e611dbeec98" />
