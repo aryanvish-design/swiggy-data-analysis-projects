@@ -1,35 +1,35 @@
+# 🚀 Swiggy Restaurants & Delivery Data Analysis | End-to-End Project
 
-# Swiggy Restaurants Data Analysis Project
-Data analysis project on Swiggy database to uncover food delivery trends,customer preferences,and restaurant performance using [ MySQL, Excel & Power BI ]
+An end-to-end data analysis project performed on a Swiggy restaurant database to uncover food delivery trends, customer preferences, and restaurant performance using **Excel, MySQL, and Power BI**.
 
-🚀 **Data Analyst Portfolio Project | End-to-End Analysis**
+---
 
 ## 📝 Project Overview
-This project performs a comprehensive data analysis on Swiggy's restaurant dataset across major Indian cities like Bangalore, Mumbai, Hyderabad, and more. The project demonstrates an end-to-end data analytics workflow, from initial data cleaning to deep database querying and final business presentation.
+This project performs a comprehensive data analysis on Swiggy's restaurant dataset. It demonstrates a complete data analytics workflow—starting from initial data inspection in Excel, deep database querying using MySQL, and finally presenting the findings through an interactive Power BI dashboard.
 
 ---
 
-### 📊 Project Presentation & Dashboards
-You can view the final business insights, charts, and executive presentation deck here:
-👉 **[View Swiggy Data Analyst Presentation (PDF)](./Swiggy_Data_Analyst_Presentation.pdf)** 👈
+## 🛠️ Tech Stack & Tools Used
+* 📊 **Microsoft Excel:** Used for initial data inspection, verifying formatting, checking blanks and duplicates.
+* 🗄️ **MySQL Workbench:** Used for structuring the database, writing SQL queries, handling aggregations, and extracting key business metrics.
+* 📉 **Power BI:** Used for designing an interactive business dashboard, creating KPI cards, and visualizing insights.
 
 ---
-
-## 🧠 Tech Stack & Tools Used
-* 📊 **Microsoft Excel:** Used for initial data exploration, data cleaning, and handling formatting issues in the dataset.
-* 🗄️ **MySQL Workbench:** Used for writing advanced SQL queries, data filtering, aggregations, and extracting key business metrics.
-* 📉 **Microsoft PowerPoint:** Used for designing the final presentation, data visualization, and reporting insights to stakeholders.
 
 ## 📘 Project Objective
-To evaluate restaurant performance, analyze customer preferences across different cities, and find trends in pricing and delivery times using structured datasets.
+To evaluate restaurant performance, analyze customer preferences across different areas/cities, and uncover actionable insights regarding pricing, ratings, and delivery times.
+
+---
 
 ## 📌 Key Focus Areas & Business Questions Answered
-* 🏢 **City & Area Analysis:** Finding high-density restaurant hubs (like Koramangala, Indiranagar) across major cities.
-* 🍴 **Cuisine Trends:** Identifying the most popular food types (Biryani, North Indian, Chinese, Mexican) in different regions.
-* 💰 **Price Point Evaluation:** Understanding the average cost for different restaurant segments and its impact on ratings.
-* 🚴‍♂️ **Delivery Optimization:** Analyzing delivery times, locations, and their impact on customer satisfaction.
+* 🏢 **City & Area Analysis:** Finding high-density restaurant hubs (such as Koramangala, Indiranagar, etc.).
+* 🍴 **Cuisine Trends:** Identifying the most popular food types and cuisines across different regions.
+* 💰 **Price Point Evaluation:** Understanding average pricing trends and their correlation with ratings.
+* 🚴‍♂️ **Delivery Optimization:** Analyzing average delivery times and spotting operational bottlenecks.
 
-## 💡 Core Insights Delivered
-* **High-Performing Hubs:** Identified prime culinary areas with high restaurant density.
-* **Rating vs Price Dynamics:** Analyzed how premium restaurants maintain higher average ratings compared to budget eateries.
-* **Cuisine Dominance:** Mapped the distribution of popular cuisines showing strong demand for regional and global food options.
+---## 💻 SQL Analysis & Queries
+To view the complete set of SQL queries, business questions solved, and their output result grid screenshots, check out the dedicated file below:
+👉 **[View Full SQL Queries & Results Documentation](./sql_queries.md)**
+## 📊 Power BI Dashboard & Visuals
+To view the complete visual breakdown, dashboard design, and interactive KPI insights, check out the dedicated dashboard file below:
+👉 **[View Power BI Dashboard Documentation](./powerbi_dashboard.md)**
