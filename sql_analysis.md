@@ -1,4 +1,3 @@
-1. Overall Average Price & Delivery Time Query
    
 ### 1. Overall Average Price & Delivery Time Query
 
