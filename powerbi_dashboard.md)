@@ -1,1 +1,21 @@
+# Swiggy Sales & Performance Power BI Dashboard
 
+This project presents a comprehensive, data-driven analysis of Swiggy restaurant listings, orders, and sales metrics, visualized through an interactive Power BI dashboard and validated via SQL queries.
+
+## 📊 Project Overview
+The primary objective of this project is to analyze food delivery patterns, pricing trends, restaurant ratings, and city-wise sales distribution to derive actionable business insights.
+
+## 🛠️ Key Metrics & Features Included
+* **Total Sales & Price Breakdown:** Scaled and analyzed total revenue distributions.
+* **Veg vs. Non-Veg Distribution:** Categorized food types using precise SQL keyword filtering, revealing an 81.24% vs 18.76% sales split.
+* **City-wise Performance:** Evaluated top-performing cities (such as Mumbai, Kolkata, and Chennai) in terms of total sales and restaurant density.
+* **Ratings & Delivery Analysis:** Tracked average ratings across top restaurants and monitored average delivery time KPIs.
+
+## 🗄️ SQL Analysis
+The database schema includes optimized summary tables created via SQL:
+* `city_wise_total_price`
+* `veg_nonveg_total_analysis`
+* `top_rated_restaurants`
+
+## 🚀 Dashboard Preview
+Designed with professional UI/UX standards, incorporating custom thematic coloring (Swiggy branding), clear KPI cards, clean typography, and structured layout designs suitable for portfolio and interview presentations.
